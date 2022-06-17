@@ -281,7 +281,7 @@
                 </div>
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="img/port6.png" alt="">
+                        <img src="img/port6.jpg" alt="">
                     </div>
                     <div class="hover-items">
                         <h3>Coming Soon</h3>
